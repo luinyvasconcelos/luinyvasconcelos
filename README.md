@@ -24,38 +24,11 @@
 
 ---
 
-# `> whoami`
+# `> about_me`
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                 L U I N Y   V A S C O N C E L O S    ║
-╠══════════════════════════════════════════════════════╣
-║ ROLE       :: Developer                               ║
-║ STATUS     :: Learning Mode                          ║
-║ FOCUS      :: Programming & Backend Exploration      ║
-║ LANGUAGES  :: Java • Python • SQL                    ║
-║ LEVEL      :: Beginner                               ║
-║ MISSION    :: Learn • Build • Improve • Repeat       ║
-╚══════════════════════════════════════════════════════╝
-```
+Olá! Eu sou **Luiny Vasconcelos** 🌷, uma Developer em início de jornada.
 
-## `> Sobre Mim`
-
-Olá! Eu sou **Luiny Vasconcelos**, uma desenvolvedora em início de jornada, apaixonada por tecnologia e atualmente explorando diferentes possibilidades dentro do desenvolvimento de software.
-
-Estou no início da minha jornada e, neste momento, estou estudando principalmente:
-
-* ☕ **Java**
-* 🐍 **Python**
-* 🗄️ **SQL**
-* 🧠 **IA Generativa** — área que tenho interesse em aprender
-* ⚙️ Lógica de programação
-* 🔌 Desenvolvimento Backend — área que estou explorando
-* 🧠 Fundamentos de programação
-
-Ainda estou descobrindo qual caminho dentro da tecnologia quero seguir, então meu objetivo atual é **experimentar, construir projetos e aprender na prática**.
-
-> `// Every expert was once a beginner.`
+Atualmente estou aprendendo **Java, Python e SQL**, praticando **SQLite** e explorando **IA Generativa**. Ainda estou descobrindo qual área da tecnologia quero seguir, com interesse especial em **Banco de Dados**.
 
 ---
 
@@ -103,107 +76,6 @@ Ainda estou descobrindo qual caminho dentro da tecnologia quero seguir, então m
 
 ---
 
-# `> tools`
-
-<div align="center">
-
-| Tool             | Purpose                  |
-| ---------------- | ------------------------ |
-| 💻 VS Code       | Desenvolvimento geral    |
-| 🐙 Git & GitHub  | Versionamento e projetos |
-| 🗄️ SQLite       | Banco de dados           |
-| 🤖 IA Generativa | Área de interesse        |
-| 📚 Documentation | Aprendizado contínuo     |
-
-</div>
-
----
-
-# `> projects`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Projetos em construção
-
-Estou começando a construir meus primeiros projetos para colocar em prática o que estou aprendendo em **Java, Python, SQL e SQLite**.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐍 Python
-
-**Learning Projects**
-
-Projetos de estudo para praticar lógica, fundamentos da linguagem e resolução de problemas.
-
-`Python`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🗃️ SQL & SQLite
-
-**Database Project**
-
-Projetos de estudo para praticar consultas, organização e manipulação de dados.
-
-**Stack**
-
-`SQL` `SQLite`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☕ Java
-
-**Learning in Progress**
-
-Projetos em Java serão adicionados conforme minha jornada de aprendizado evoluir.
-
-```text
-STATUS: BUILDING...
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# `> current_objectives`
-
-```bash
-luiny@github:~$ ./current_objectives.sh
-
-[✓] Aprender lógica de programação
-[~] Estudar fundamentos de Java
-[~] Praticar Python
-[~] Aprender SQL
-[~] Praticar SQLite
-[~] Desenvolver projetos Backend
-[~] Melhorar Git & GitHub
-[~] Explorar diferentes áreas da tecnologia
-[~] Conhecer IA Generativa
-[ ] Construir projetos maiores
-[ ] Encontrar minha especialização
-
-luiny@github:~$ echo "KEEP BUILDING."
-KEEP BUILDING.
-```
-
----
-
 # `> github_statistics`
 
 <div align="center">
@@ -232,50 +104,12 @@ KEEP BUILDING.
 
 ---
 
-# `> achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=luinyvasconcelos&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%" />
-
-</div>
-
----
-
-# `> contribution_protocol`
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/luinyvasconcelos/luinyvasconcelos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-# `> connect`
-
-<div align="center">
-
-<a href="https://github.com/luinyvasconcelos">
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/luinyvasconcelos/">
-<img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-</a>
-
-</div>
-
-<br>
-
 <div align="center">
 
 ```text
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
-│   "Code. Learn. Fail. Debug. Repeat."               │
+│   "Learning, building & growing."                  │
 │                                                      │
 │   SYSTEM STATUS :: ONLINE                            │
 │   DEVELOPER STATUS :: LEARNING                       │
@@ -284,7 +118,7 @@ KEEP BUILDING.
 ╰──────────────────────────────────────────────────────╯
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0B1026,100:050816&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF5FA,50:FFD6E8,100:FFB6D9&height=120&section=footer" width="100%"/>
 
 <sub>⚡ Designed & built by Luiny Vasconcelos • 2026</sub>
 
